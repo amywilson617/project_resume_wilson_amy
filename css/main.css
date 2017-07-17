@@ -93,6 +93,16 @@ footer {
     font-family: 'Dosis', sans-serif;
 }
 
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background: #555555;
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: 'Dosis', sans-serif;
+}
+
 /* MEDIA QUERIES */
 
 @media (min-width: 680px) {
@@ -106,7 +116,7 @@ footer {
         float: right;
         width: 90%;
         margin: 1%;
-				margin-bottom: 30px;
+        margin-bottom: 30px;
     }
 
     .job {
@@ -115,7 +125,7 @@ footer {
 
     .exp {
         clear: both;
-				float: none;
+        float: none;
     }
 
     h1 {
@@ -149,9 +159,9 @@ footer {
         font-size: 4rem;
     }
 
-  .exp{
-		clear: none;
-	}
+    .exp {
+        clear: none;
+	    }
 
     #intern {
         float: left;
