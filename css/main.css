@@ -103,6 +103,11 @@ footer {
     font-family: 'Dosis', sans-serif;
 }
 
+.purple {
+    border: 8px gray solid;
+		font-weight: bold;
+}
+
 /* MEDIA QUERIES */
 
 @media (min-width: 680px) {

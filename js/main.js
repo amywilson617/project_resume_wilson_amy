@@ -21,4 +21,8 @@ $(document).ready(function () {
         scrollText: 'Scroll to top', // Text for element
         activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
     });
+
+    $('footer').click(function () {
+        $('footer').addClass('purple');
+    });
 });
