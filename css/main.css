@@ -1,5 +1,7 @@
-container {
-    width: 100%;
+.container {
+    width: 80%;
+    opacity: 80%;
+    margin: auto;
 }
 
 header {
@@ -50,7 +52,7 @@ ul li {
     background-color: #2e0854;
     color: white;
     margin: 3%;
-		margin-top: 3%;
+    margin-top: 3%;
     padding: 3%;
 }
 
@@ -84,3 +86,5 @@ footer {
     padding: 3%;
     text-align: center;
 }
+
+/* MEDIA QUERIES */
