@@ -12,6 +12,9 @@
 * [Backstretch JQuery Plugin](http://www.jquery-backstretch.com/)
 * This plug generates a button at the bottom of the page when you scroll all the way to the bottom, and when you click it is smoothly brings you back to the top of the page.
 
+*  Other than the JQuery above, I	did	not	use	any
+resources	outside	of	the	lectures	and	my	notes	on	this	assignment.
+
 
 # Deductions
 * "I	reviewed	the	list	of	deductions	for	this	project
