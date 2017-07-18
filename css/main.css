@@ -1,6 +1,5 @@
 .container {
     width: 80%;
-    opacity: 80%;
     margin: auto;
 }
 
@@ -8,7 +7,6 @@ header {
     font-family: 'Dosis', sans-serif;
     color: #808080;
     float: right;
-    clear: all;
     text-align: right;
     padding-right: 5%;
 }
@@ -17,7 +15,7 @@ header {
     color: #2e0854;
     font-style: italic;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 #headshot {
@@ -74,7 +72,7 @@ h4 {
     list-style-type: none;
     font-style: italic;
     font-size: 0.8em;
-    line-height: 90%;
+    line-height: 50%;
 }
 
 footer {
@@ -85,7 +83,8 @@ footer {
     font-size: 1.3em;
     padding: 1%;
     text-align: center;
-    opacity: 0.6;
+    opacity: 0.5;
+    width: 100%;
 }
 
 .exp {
@@ -96,7 +95,7 @@ footer {
 #scrollUp {
     bottom: 20px;
     right: 20px;
-    padding: 10px 20px;
+    padding: 10px 10px;
     background: #555555;
     opacity: 0.5;
     color: #ffffff;
@@ -105,7 +104,7 @@ footer {
 
 .purple {
     border: 8px gray solid;
-		font-weight: bold;
+    font-weight: bold;
 }
 
 /* MEDIA QUERIES */
@@ -136,14 +135,19 @@ footer {
     h1 {
         font-size: 2.2em;
     }
-}
 
+    .name {
+        font-size: 1.1em;
+    }
+}
 
 @media (min-width: 1000px) {
     #headshot {
         float: right;
         width: 30%;
         margin: 3%;
+        margin-right: 30%;
+        margin-top: 230px;
     }
 
     .competencies {
@@ -166,7 +170,7 @@ footer {
 
     .exp {
         clear: none;
-	    }
+    }
 
     #intern {
         float: left;
@@ -188,5 +192,9 @@ footer {
 
     .email {
         font-size: 1.6em;
+    }
+
+    .name {
+        font-size: 2em;
     }
 }

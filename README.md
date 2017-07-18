@@ -1,8 +1,8 @@
 # Links
-* A	link	to	this	assignment’s	repo	on	GitHub
-* A	link	to	this	project	on	your	web	host
-* A	link	to	this	project	on	the	W3C’s	validator
-* A	link	to	this	project	on	the	HTML5	Outliner
+* [ Repo on Github] ()
+* [Webhost]()
+* [W3C’s	Validator] ()
+* [HTML5	Outliner] ()
 
 # Resources
 
