@@ -15,7 +15,7 @@ header {
     color: #2e0854;
     font-style: italic;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 #headshot {
@@ -112,7 +112,7 @@ footer {
 @media (min-width: 680px) {
     #headshot {
         float: left;
-        width: 40%;
+        width: 30%;
         margin: 3%;
     }
 
@@ -137,7 +137,7 @@ footer {
     }
 
     .name {
-        font-size: 1.1em;
+        font-size: 1.4em;
     }
 }
 
@@ -152,7 +152,7 @@ footer {
 
     .competencies {
         float: right;
-        width: 42%;
+        width: 49%;
         padding: 0%;
         margin-top: 60px;
         clear: both;
@@ -174,7 +174,7 @@ footer {
 
     #intern {
         float: left;
-        width: 40%;
+        width: 42%;
         clear: none;
     }
 

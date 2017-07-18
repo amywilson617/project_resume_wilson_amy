@@ -1,8 +1,8 @@
 # Links
-* [ Repo on Github] ()
+* [ Repo on Github](https://github.com/amywilson617/project_resume_wilson_amy.git)
 * [Webhost]()
-* [W3C’s	Validator] ()
-* [HTML5	Outliner] ()
+* [W3C’s	Validator]()
+* [HTML5	Outliner]()
 
 # Resources
 
